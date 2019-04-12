@@ -8,7 +8,7 @@
 
 ## Instructions
 
-This is a simple memory gema built to test a users memory. try to fined matched cards with less moves.
+This is a simple memory gema built to test users memory. try to fined matched cards with less moves.
 
 ## Code Dependencies
 
